@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Jacob TN Young"
 output: html_document
 ---
 
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *Hi there!* 
 
 <br>
-I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on networks! Specifically, how ideas from network science can be applied to problems in criminology and criminal justice.
+I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on **network criminology**! Specifically, how ideas from network science can be applied to problems in criminology and criminal justice. Additionally, I am interested in **institutional corrections**.
 
 <br>
 
