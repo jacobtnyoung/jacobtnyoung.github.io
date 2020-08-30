@@ -1,0 +1,90 @@
+---
+title: "Writing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curriculum Vitae 
+
+### Peer-Reviewed Publications & Book Chapters
+
+Davidson, Kimberly M. and **Jacob T.N. Young**. 2019. [Treatment Engagement in a Prison-Based Therapeutic Community: A Mixed-Methods Approach](https://doi.org/10.1016/j.jsat.2019.05.011). *Journal of Substance Abuse Treatment*, 103 (August): 33-42.
+
+Meldrum, Ryan C., **Jacob T.N. Young**, Nicholas Kavish, and Brian B. Boutwell. 2019. [Could Peers Influence Intelligence During Adolescence? An Exploratory Study](http://doi.org/10.1016/j.intell.2018.11.009). *Intelligence*, 72: 28-34.
+
+**Young, Jacob T.N.**, Scott H. Decker, and Gary Sweeten. 2018. [The Boston Special Youth Project Affiliation Dataset](https://www.exeley.com/journal/connections). *Connections*, 37(1&2): 85-88.
+
+Shjarback, John A. and **Jacob T.N. Young**. 2018. [The ‘Tough on Crime’ Arms Race: A Network Approach to Understanding the Social Mechanisms Leading to the Rise of Federal Crime Control Legislation in the United States from 1973-2004](https://link.springer.com/article/10.1007%2Fs12103-017-9395-5). *American Journal of Criminal Justice*, 43(2): 197-221.
+
+Kreager, Derek A., Martin Bouchard, George De Leon, David R. Schaefer, Michaela Soyer, **Jacob T.N. Young**, and Gary Zajac. 2018. A Life Course and Networks Approach to Prison Therapeutic Communities. Social Networks and the Life Course, Eds. Duane F. Alwin, Diane H. Felmlee, and Derek A. Kreager. Pg. 433-451. New York: Springer.
+
+**Young, Jacob T.N.** and Justin T. Ready. 2018. A Longitudinal Analysis of the Relationship between Administrative Policy, Technological Preferences, and Body-Worn Camera Activation Among Police Officers. Policing: A Journal of Policy and Practice, 12(1): 27-42.
+
+Boutwell, Brian A., **Jacob T.N. Young**, and Ryan C. Meldrum. 2018. On the Positive Relationship between Breastfeeding and Intelligence. Developmental Psychology, 54(8):1426-1433.
+
+Meyers, Travis J. and Kevin A. Wright, **Jacob T.N. Young**, and Melinda Tasca. 2017. Social Support from Outside the Walls: Examining the Role of Relationship Dynamics with Prison Visitors. Journal of Criminal Justice, 52: 57-67.
+
+Schaefer, David R., Martin Bouchard, **Jacob T.N. Young**, and Derek A. Kreager. 2017. Friends in Locked Places: An Investigation of Prison Inmate Network Structure. Social Networks, 51: 88-103.
+
+Kreager, Derek A., **Jacob T.N. Young**, Dana L. Haynie, Martin Bouchard, and Gary Zajac. 2017. Where ‘Old Heads’ Prevail: Inmate Hierarchy in a Men’s Prison Unit. American Sociological Review, 82(4): 685-718.
+
+Fahmy, Chantal and **Jacob T.N. Young**. 2017. Gender Inequality in Knowledge Production in Criminology and Criminal Justice. Journal of Criminal Justice Education, 28(2): 285-305.
+
+Meldrum, Ryan C., Melissa A. Petkovsek, Brian B. Boutwell, and **Jacob T.N. Young**. 2017. Reassessing the Relationship between General Intelligence and Self-Control in Childhood. Intelligence, 60(1):1-9.
+
+Turanovic, Jillian J. and **Jacob T.N. Young**. 2016. Violent Offending and Victimization in Adolescence: Social Network Mechanisms and Homophily. Criminology, 54(3): 487-519.
+
+Hoeben, Evelien M., Ryan C. Meldrum, D’Andre Walker, and **Jacob T.N. Young**. 2016. The Role of Peer Delinquency and Unstructured Socializing in Explaining Delinquency and Substance Use: A State-of-the-Art Review. Journal of Criminal Justice, 47: 108-122.
+
+Kreager, Derek A., David R. Schaefer, Martin Bouchard, Dana L. Haynie, Sara Wakefield, **Jacob T.N. Young**, and Gary Zajac. 2016. Toward a Criminology of Inmate Networks. Justice Quarterly, 33(6): 1000-1028.
+
+Flexon, Jamie L., Ryan C. Meldrum, **Jacob T.N. Young**, and Peter Lehmann. 2016. Low Self-Control and the Dark Triad: Disentangling the Predictive Power of Personality Traits on Young Adult Substance Use, Offending, and Victimization. Journal of Criminal Justice, 46: 159-169.
+
+Ready, Justin, and **Jacob T.N. Young**. 2015. The Impact of On-Officer Video Cameras on Police-Citizen Contacts: Findings from a Controlled Field Experiment. Journal of Experimental Criminology, 11: 445-458.
+
+Chantal, Fahmy and **Jacob T.N. Young**. 2015. Invisible Colleagues: The Informal Organization of Knowledge Production in Criminology and Criminal Justice. Journal of Criminal Justice Education, 26(4): 423-445.
+
+Meldrum, Ryan C., **Jacob T.N. Young**, and Peter Lehmann. 2015. Parental Low Self-Control, Parental Socialization, Young Adult Low Self-Control, and Offending: A Retrospective Study. Criminal Justice and Behavior, 42(11): 1183-1199.
+
+Corcoran, Katie, David Pettinicchio, and **Jacob T.N. Young**. 2015. Perceptions of Societal Injustice and Efficacy: Participation in Low/High Cost Forms of Collection Action. Sociological Inquiry, 85(3): 429-461.
+
+**Young, Jacob T.N.** and Justin Ready. 2015. Diffusion of Policing Technology: The Role of Networks in Influencing the Endorsement and Use of On-Officer Cameras. Journal of Contemporary Criminal Justice, 31(3): 243-261.
+
+**Young, Jacob T.N.**, Cesar J. Rebellon, J.C. Barnes, and Frank M. Weerman. 2015. What do Alternative Measures of Peer Behavior Tell Us? Examining the Discriminant Validity of Multiple Methods of Measuring Peer Deviance and the Implications for Etiological Models. Justice Quarterly, 32(4): 626-652. Selected as a finalist for the Academy of Criminal Justice Sciences Donald McNamara Award for Outstanding Journal Publication.
+
+Rees, Carter and **Jacob T.N. Young**. 2015. Parents, Peers, and Socialization to Institutions in Childhood and Adolescence: Implications for Delinquent Behavior. The Nurture versus Biosocial Debate in Criminology, Ed. Kevin Beaver, Pg. 283-300. Thousand Oaks.
+
+Ready, Justin T. and **Jacob T.N. Young**. 2014. A Tale of Two Cities: Whether body cams succeed in increasing police transparency depends entirely on training and policies. Slate.
+
+Ready, Justin T. and **Jacob T.N. Young**. 2014. Three Myths about Police Body Cams: Filming interactions between law enforcement and citizens might not stop the next Ferguson from happening. Slate.
+
+**Young, Jacob T.N.**, Cesar Rebellon, J.C. Barnes, and Frank M. Weerman. 2014. Unpacking the Black Box of Peer Similarity in Deviance: Understanding the Mechanisms Linking Personal Behavior, Peer Behavior, and Perceptions. Criminology, 52(1): 60-86.
+
+Barnes, J.C., Kevin M. Beaver, **Jacob T.N. Young** and Michael TenEyck. 2014. A Behavior Genetic Analysis of the Tendency for Youth to Associate According to GPA. Social Networks, 38: 41-49.
+
+**Young, Jacob T.N.** 2014. A Sensitivity Analysis of Egocentric Measures of Peer Delinquency to Latent Homophily: A Research Note. Journal of Quantitative Criminology, 30(3): 373-387.
+
+**Young, Jacob T. N.** 2014. Role Magnets’?: An Empirical Investigation of Popularity Trajectories for Life-Course Persistent Individuals During Adolescence. Journal of Youth and Adolescence, 43(1):104-115. 
+
+Boman, IV, John H., **Jacob T.N. Young**, Julie M. Baldwin, and Ryan C. Meldrum. 2014. Specifying the Sources of Misperceptions of Peer Deviance: A Tale of Two Levels. Criminal Justice and Behavior, 41(1): 91-113.
+
+**Young, Jacob T.N.** and Frank M. Weerman. 2013. Delinquency as a Consequence of Misperception: Overestimation of Friends’ Delinquent Behavior and Mechanisms of Social Influence. Social Problems, 60(3):334-356. Featured in Criminological Highlights. 2014 (vol. 14).
+
+Meldrum, Ryan C., **Jacob T.N. Young**, Callie Burt, and Alex R. Piquero. 2013. Maternal Versus Adolescent Reports of Self-Control: Implications for Testing the General Theory of Crime. Journal of Criminal Justice, 41(1): 24-32.
+
+**Young, Jacob T.N.** and Carter Rees. 2013. Social Networks and Delinquency in Adolescence: Implications for Life-Course Criminology. Handbook of Life-Course Criminology, Ed. Chris Gibson and Marvin Krohn, pg. 159-180. Springer.
+
+Meldrum, Ryan C., **Jacob T.N. Young**, and Frank M. Weerman. 2012. Changes in Self-Control During Adolescence: Investigating the Influence of the Adolescent Peer Network. Journal of Criminal Justice, 40(6): 452-462.
+
+Meldrum, Ryan C., **Jacob T.N. Young**, Carter Hay, and Jamie L. Flexon. 2012. Does Self-Control Influence Maternal Attachment? A Reciprocal Effects Analysis from Childhood through Middle Adolescence. Journal of Quantitative Criminology, 38(4): 673-699.
+
+**Young, Jacob T.N.**, J.C. Barnes, Ryan C. Meldrum, and Frank M. Weerman. 2011. Assessing and Explaining Misperceptions of Peer Delinquency. Criminology, 49(2): 599-630.
+
+Corcoran, Katie, David Pettinicchio, and **Jacob T.N. Young**. 2011. The Context of Control: A Cross-National Investigation of the Link between Social Structure, Fatalism, and Collective Action. British Journal of Social Psychology, 50 (4): 575-605. Special Issue: “Innovation in Theory and Research on Collective Action and Social Change”.
+
+Young, Jacob T. N. 2011. How Do They ‘End Up Together’? A Social Network Analysis of Self-Control, Homophily, and Adolescent Relationships. Journal of Quantitative Criminology, 27(3):251-273.
+
+Meldrum, Ryan C., **Jacob T.N. Young**, and Frank M. Weerman. 2009. Reconsidering the Effect of Self-Control and Delinquent Peers: Implications of Measurement for Theoretical Significance. Journal of Research in Crime and Delinquency, 46(3): 353-376. Reprinted in Snapshots of Research: Readings in Criminology and Criminal Justice. 2011. Pg. 20-32. Edited by Richard D. Hartley. Sage Publications.

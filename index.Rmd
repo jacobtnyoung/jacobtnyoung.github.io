@@ -1,0 +1,12 @@
+---
+title: "Jacob TN Young"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Jacob TN Young
+
+Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/), Associate Director for the[ Center for Correctional Solutions](https://ccj.asu.edu/ccs), and [Curriculum Coordinator for the Institute for Social Science Research](https://issr.asu.edu), at [Arizona State University](https://asu.edu)
