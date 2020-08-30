@@ -7,11 +7,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Curriculum Vitae 
+## Curriculum Vitae   
+<br>
 
-### Peer-Reviewed Publications & Book Chapters
+### Peer-Reviewed Publications & Book Chapters  
+<br>
 
-Davidson, Kimberly M. and **Jacob T.N. Young**. 2019. [Treatment Engagement in a Prison-Based Therapeutic Community: A Mixed-Methods Approach](https://doi.org/10.1016/j.jsat.2019.05.011). *Journal of Substance Abuse Treatment*, 103 (August): 33-42.
+Davidson, Kimberly M. and **Jacob T.N. Young**. 2019. [Treatment Engagement in a Prison-Based Therapeutic Community: A Mixed-Methods Approach](https://doi.org/10.1016/j.jsat.2019.05.011). *Journal of Substance Abuse Treatment*, 103 (August): 33-42.  
 
 Meldrum, Ryan C., **Jacob T.N. Young**, Nicholas Kavish, and Brian B. Boutwell. 2019. [Could Peers Influence Intelligence During Adolescence? An Exploratory Study](http://doi.org/10.1016/j.intell.2018.11.009). *Intelligence*, 72: 28-34.
 
