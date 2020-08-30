@@ -7,12 +7,24 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Jacob TN Young
-
-<br>
-
-Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/), Associate Director for the [Center for Correctional Solutions](https://ccj.asu.edu/ccs), and [Curriculum Coordinator for the Institute for Social Science Research](https://issr.asu.edu), at [Arizona State University](https://asu.edu)
 
 ### About me...
 
-Hi there! Thanks for stopping by!!!
+<br>
+
+*Hi there!* 
+
+<br>
+I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on networks! Specifically, how ideas from network science can be applied to problems in criminology and criminal justice.
+
+<br>
+
+I am also the  Associate Director for the [Center for Correctional Solutions](https://ccj.asu.edu/ccs).
+
+<br>
+
+*And*, I am the Curriculum Coordinator for the [Institute for Social Science Research](https://issr.asu.edu).    
+
+<br>
+
+*Thanks for stopping by!!!*
