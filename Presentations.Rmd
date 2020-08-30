@@ -1,0 +1,33 @@
+---
+title: "Presentations"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Invited Presentations
+
+[Housing in Recidivism Reduction Efforts: Study Design for the Arizona Pilot Program](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_presentations/housing_forum_presentation_young.pdf). Presentation for the [Arizona Housing Forum](https://housing.az.gov/2019-arizona-housing-forum/overview), August 2019.
+
+The Structure of Trust Among Incarcerated Females. Keynote Presentation for the [Illicit Networks Workshop](https://illicitnetworksworkshop.com/), June 2019.
+
+The Structure of Trust Among Incarcerated Females: An Example of Network Criminology. Presented at the School of Criminology and Criminal Justice Colloquium Series at Arizona State University, May 2019.
+
+[The Criminal Justice System: A Centralized Authority for Coordinating the Management of Externalities](https://vimeo.com/205621861). Presented at the Cooperation and Conflict Symposium at Arizona State University, February 2017.
+
+Findings from the Prison Inmate Network Study. Presented at the Department of Sociology Colloquium at the University of New Mexico, April 2016.
+
+The Impact of On-Officer Video Cameras on Police Work: Findings from the Mesa Field Experiment” Presented to the Arizona State Senate Law Enforcement Officer Body Camera Study Committee, August 2015.
+
+Introduction to Social Network Analysis. Presented at the Mathematical Theoretical Biology Institute Summer Program at Arizona State University, August 2015.
+
+A Cautionary Note on the Adoption of Police Body Cameras: Findings from the Mesa Field Experiment. Presented at the Symposia on Racial Justice at Arizona State University, March 2015.
+
+The publication related to this presentation is available here:
+Young, Jacob T.N. and Justin T. Ready. 2018. “A Longitudinal Analysis of the Relationship between Administrative Policy, Technological Preferences, and Body-Worn Camera Activation Among Police Officers”. Policing: A Journal of Policy and Practice, 12(1): 27-42.
+
+Unstructured Socializing, Gang Cohesiveness, and Delinquency: A Longitudinal Analysis of the Consequences of a Detached-Worker Program. Presented at the Criminology Forum at Pennsylvania State University October, 2014 and the School of Public Affairs Colloquium at Arizona State University, August 2014.
+
+
