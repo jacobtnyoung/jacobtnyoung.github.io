@@ -21,7 +21,7 @@ Here is my body of research by year. The DOIs are hyperlinked to the title. If y
 #### 2020
 <br>
 
-Young, Jacob T.N. and Dana L. Haynie. 2020. Trusting the untrustworthy: The social organization of trust among incarcerated women. *Justice Quarterly*, *IN PRESS*. [No-paywall manuscript](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_manuscripts/TRUST_2020_JQ.pdf).  
+**Young, Jacob T.N.** and Dana L. Haynie. 2020. [Trusting the untrustworthy: The social organization of trust among incarcerated women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*, *IN PRESS*. [No-paywall manuscript](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_manuscripts/TRUST_2020_JQ.pdf).  
 
 
 #### 2019
