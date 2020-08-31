@@ -9,18 +9,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br><br>
 
-### Curriculum Vitae   
+### [Curriculum Vitae](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/CV_YOUNG_distribute.pdf)   
 <br>
 
 ### Peer-Reviewed Publications & Book Chapters {.tabset .tabset-fade .tabset-pills} 
+
+Here is my body of research by year. The DOIs are hyperlinked to the title. If you run into a paywall, click on the "No-paywall manuscript" link. This is identical to the published manuscript, it just does not have the journal formatting (or the cost!). 
+
 <br>
 
 #### 2020
-
 <br>
 
-#### 2019
+Young, Jacob T.N. and Dana L. Haynie. 2020. Trusting the untrustworthy: The social organization of trust among incarcerated women. *Justice Quarterly*, *IN PRESS*. [No-paywall manuscript](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_manuscripts/TRUST_2020_JQ.pdf).  
 
+
+#### 2019
 <br>
 
 Davidson, Kimberly M. and **Jacob T.N. Young**. 2019. [Treatment Engagement in a Prison-Based Therapeutic Community: A Mixed-Methods Approach](https://doi.org/10.1016/j.jsat.2019.05.011). *Journal of Substance Abuse Treatment*, 103 (August): 33-42.  
