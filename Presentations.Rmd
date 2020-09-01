@@ -1,6 +1,8 @@
 ---
 title: "Presentations"
-output: html_document
+output: 
+  html_document:
+    theme: yeti
 ---
 
 ```{r setup, include=FALSE}
