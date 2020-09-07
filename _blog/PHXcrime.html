@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Phoenix Crime Trends</title>
+
+<script src="libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="libs/navigation-1.1/tabsets.js"></script>
+<link href="libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 45px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h2 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h3 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h4 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h5 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.section h6 {
+  padding-top: 50px;
+  margin-top: -50px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <!-- NOTE: add "navbar-inverse" class for an alternate navbar background -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Jacob TN Young</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Writing.html">Writing</a></li>
+        <li><a href="Presentations.html">Presentations</a></li>
+        <li><a href="Networks.html">Networks</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Phoenix Crime Trends</h1>
+<h4 class="date">07 September, 2020</h4>
+
+</div>
+
+
+<p><br><br></p>
+<div id="has-crime-in-phoenix-increased-during-the-covid-19-pandemic" class="section level2">
+<h2>Has crime in Phoenix increased during the COVID-19 pandemic?</h2>
+<p>I was wondering whether there has been an increase in crime in Phoenix since March 2020. So, I went to the city’s <a href="https://www.phoenixopendata.com">open data site</a> and pulled the <a href="https://www.phoenixopendata.com/dataset/crime-data/resource/0ce3411a-2fc6-4302-a33f-167f68608a20">crime data</a> which is updated every day.</p>
+<p><br><br></p>
+<div id="getting-the-data." class="section level3">
+<h3>Getting the data.</h3>
+<p>Let’s pull the most recent data from the site.</p>
+<pre class="r"><code># set the url where the data are located.
+url &lt;- &quot;https://www.phoenixopendata.com/dataset/cc08aace-9ca9-467f-b6c1-f0879ab1a358/resource/0ce3411a-2fc6-4302-a33f-167f68608a20/download/crimestat.csv&quot;
+
+# pull in the csv file.
+crime.data &lt;- read.csv(url, as.is = TRUE, header = TRUE)
+
+# take a look at the data.
+head(crime.data)  </code></pre>
+<pre><code>##        INC.NUMBER       OCCURRED.ON       OCCURRED.TO  UCR.CRIME.CATEGORY
+## 1 201600000052855 11/01/2015  00:00 01/09/2016  00:00 MOTOR VEHICLE THEFT
+## 2 201600000594484 11/01/2015  00:00                                  RAPE
+## 3 201500002102327 11/01/2015  00:00 11/01/2015  09:00       LARCENY-THEFT
+## 4 201500002101405 11/01/2015  00:00 11/01/2015  05:00 MOTOR VEHICLE THEFT
+## 5 201500002102668 11/01/2015  00:00 11/01/2015  11:50 MOTOR VEHICLE THEFT
+## 6 201600000527709 11/01/2015  00:00 03/22/2016  00:36       LARCENY-THEFT
+##            X100.BLOCK.ADDR   ZIP        PREMISE.TYPE
+## 1 N 43RD AVE &amp; W CACTUS RD 85029 SINGLE FAMILY HOUSE
+## 2        13XX E ALMERIA RD 85006 SINGLE FAMILY HOUSE
+## 3           51XX N 15TH ST 85014           APARTMENT
+## 4      102XX W MEDLOCK AVE 85307 SINGLE FAMILY HOUSE
+## 5           69XX W WOOD ST 85043 SINGLE FAMILY HOUSE
+## 6      33XX W CAMELBACK RD 85017         PARKING LOT</code></pre>
+<pre class="r"><code>tail(crime.data)</code></pre>
+<pre><code>##             INC.NUMBER       OCCURRED.ON       OCCURRED.TO  UCR.CRIME.CATEGORY
+## 315381 202000001443617 08/31/2020  23:00 08/31/2020  23:30  AGGRAVATED ASSAULT
+## 315382 202000001440438 08/31/2020  23:12 08/31/2020  23:12  AGGRAVATED ASSAULT
+## 315383 202000001440541 08/31/2020  23:42                              BURGLARY
+## 315384 202000001440588 08/31/2020  23:57                    AGGRAVATED ASSAULT
+## 315385 202000001447799 08/31/2020  23:59                         LARCENY-THEFT
+## 315386 202000001467535 08/31/2020  23:59 09/01/2020  01:00 MOTOR VEHICLE THEFT
+##            X100.BLOCK.ADDR   ZIP               PREMISE.TYPE
+## 315381     136XX S 44TH ST 85044                  APARTMENT
+## 315382  19XX W LARKSPUR DR 85029                    VEHICLE
+## 315383 39XX E CAMELBACK RD 85018 CONVENIENCE MARKET / STORE
+## 315384    92XX W THOMAS RD 85037        SINGLE FAMILY HOUSE
+## 315385       48XX E RAY RD 85044                PARKING LOT
+## 315386    48XX W PHELPS RD 85306                    UNKNOWN</code></pre>
+<pre class="r"><code>dim(crime.data)</code></pre>
+<pre><code>## [1] 315386      7</code></pre>
+<p>The data are reported as UCR crime classifications and have geographic information (block address, zip) as well as the date and time of the incident. The <code>dim()</code> command returns 315,386 reports.</p>
+<p><br><br></p>
+</div>
+<div id="cleaning-the-data." class="section level3">
+<h3>Cleaning the data.</h3>
+<p>Now that the data are in the workspace, let’s clean up the date and the crime categories to make plotting them fairly easy. For this step, we will use the <code>lubridate()</code> package.</p>
+<pre class="r"><code># Load the library.
+library(lubridate)
+
+# Check the class of the data variable.
+#crime.data$OCCURRED.ON
+
+# Check for format of the occurred on date variable.
+crime.data$OCCURRED.ON[1] # this is month, day, year as well as the time (hours and minutes).</code></pre>
+<pre><code>## [1] &quot;11/01/2015  00:00&quot;</code></pre>
+<pre class="r"><code>mdy_hm(crime.data$OCCURRED.ON[1])</code></pre>
+<pre><code>## [1] &quot;2015-11-01 UTC&quot;</code></pre>
+<pre class="r"><code># create an object that is the time and the category.
+dates.crimes &lt;- data.frame(
+  date = as.Date(mdy_hm(crime.data$OCCURRED.ON)),
+  crime = crime.data$UCR.CRIME.CATEGORY,
+  days.since = unclass(as.Date(mdy_hm(crime.data$OCCURRED.ON))) 
+  )
+
+table(is.na(dates.crimes$date)) # 420 are missing dates.</code></pre>
+<pre><code>## 
+##  FALSE   TRUE 
+## 314966    420</code></pre>
+<pre class="r"><code>table(is.na(dates.crimes$crime)) # none missing type of crime.</code></pre>
+<pre><code>## 
+##  FALSE 
+## 315386</code></pre>
+<pre class="r"><code># Let&#39;s drop those cases missing dates.
+dates.crimes &lt;- dates.crimes[is.na(dates.crimes$date) == FALSE,]
+dim(crime.data)[1] - dim(dates.crimes)[1] # the number of cases you had to drop due to missing.</code></pre>
+<pre><code>## [1] 420</code></pre>
+<pre class="r"><code># The days.since object represents the number of days since 1/1/1970.
+# We got this using the unclass() function. I like working with the numbers.
+head(dates.crimes$days.since)</code></pre>
+<pre><code>## [1] 16740 16740 16740 16740 16740 16740</code></pre>
+<p><br><br></p>
+</div>
+<div id="plot-it" class="section level3">
+<h3>Plot it!</h3>
+<p>Now, we want to plot the data where the months are the x-axis and the frequency of the crimes are the y-axis. We have to set up some plot parameters first to get things looking nice.</p>
+<pre class="r"><code># Set up the values we want to plot.
+y.1 &lt;- as.vector(table(dates.crimes$days.since - dates.crimes$days.since[1]))
+x.1 &lt;- c(seq(min(dates.crimes$days.since - dates.crimes$days.since[1]),max(dates.crimes$days.since - dates.crimes$days.since[1]),length.out = length(y.1)))
+
+# unclass(as.Date(&quot;2020-03-01&quot;)) - dates.crimes$days.since[1] # this is March 1st 2020.
+march.1.2020 &lt;- (unclass(as.Date(&quot;2020-03-01&quot;)) - dates.crimes$days.since[1])
+march.1.2019 &lt;- (unclass(as.Date(&quot;2019-03-01&quot;)) - dates.crimes$days.since[1])
+march.1.2018 &lt;- (unclass(as.Date(&quot;2018-03-01&quot;)) - dates.crimes$days.since[1])
+march.1.2017 &lt;- (unclass(as.Date(&quot;2017-03-01&quot;)) - dates.crimes$days.since[1])
+march.1.2016 &lt;- (unclass(as.Date(&quot;2016-03-01&quot;)) - dates.crimes$days.since[1])
+marches      &lt;- cbind(march.1.2019,march.1.2018,march.1.2017,march.1.2016)
+
+### Set plot basics and axes.
+plot.new()
+plot.window(xlim = c(0, max(x.1)), ylim = c(min(y.1), max(y.1)+10))   
+
+### Plot the values.  
+points(x = x.1, y = y.1, col = &quot;black&quot;, pch = 16, cex = 0.75)
+lines(x = x.1, y = y.1, col = &quot;grey75&quot;, pch = 16, cex = 0.75)
+
+# Add a segment to shown the median.
+#segments(0,median(y.1),max(x.1),median(y.1), lwd = 3, lty = 3, col = &quot;black&quot;)
+
+# Add a line and some text for March 2020.
+segments(march.1.2020, min(y.1), march.1.2020, 270,lwd = 2, lty = 3, col = &quot;red&quot;)
+text(march.1.2020, 275,&quot;March 1, 2020&quot;, col=&quot;red&quot;, pos=1, cex=1.1)
+
+# Add a line and some text for March in the prior years.
+for(i in 1:length(marches)){
+  segments(marches[i], min(y.1), marches[i], 270,lwd = 1, lty = 2, col = &quot;black&quot;)
+}
+text(marches[1], 275,&quot;March 1, 2019&quot;, col=&quot;black&quot;, pos=1, cex=0.8)
+text(marches[2], 275,&quot;March 1, 2018&quot;, col=&quot;black&quot;, pos=1, cex=0.8)
+text(marches[3], 275,&quot;March 1, 2017&quot;, col=&quot;black&quot;, pos=1, cex=0.8)
+text(marches[4], 275,&quot;March 1, 2016&quot;, col=&quot;black&quot;, pos=1, cex=0.8)
+
+# Add a lowess line to see the trend.
+lines(lowess(x.1, y.1), type = &quot;l&quot;, col= &quot;black&quot;, lwd = 2)
+
+# Add a title.
+title(&quot;Reports of Crime for Phoenix (Nov. 2015 - Sept. 2020)\n[lowess shown in horizontal black line]&quot;)</code></pre>
+<p><img src="PHXcrime_files/figure-html/unnamed-chunk-3-1.png" width="1152" /></p>
+<p><br><br></p>
+</div>
+<div id="conclusions" class="section level3">
+<h3>Conclusions?</h3>
+<p>This is just a quick look, but it shows that crime went down after the pandemic hit in Phoenix. There is a brief uptick though. So, perhaps we should take a closer look at the 2020 data.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
