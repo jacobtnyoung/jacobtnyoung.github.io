@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "R 2 Phoenix"
 output: 
   html_document:
     theme: yeti
@@ -8,6 +8,12 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
+
+## R 2 Phoenix  
+
+Welcome to [R 2 Phoenix]()! This site is dedicated to analyzing data from the [City of Phoenix](https://www.phoenixopendata.com/) open data platform.
+
 <br>
 
 ### [Phoenix Crime Data](https://github.com/jacobtnyoung/jacobtnyoung.github.io/blob/master/_blog/PHXcrime.html)
