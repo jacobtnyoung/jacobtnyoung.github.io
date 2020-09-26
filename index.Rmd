@@ -1,5 +1,5 @@
 ---
-title: "Jacob TN Young"
+title: ""
 output: 
   html_document:
     theme: yeti
@@ -18,11 +18,17 @@ knitr::opts_chunk$set(echo = TRUE)
 *Hi there!* 
 
 <br>
-I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on **network criminology**! Specifically, how ideas from network science can be applied to problems in criminology and criminal justice. 
+I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on [**network criminology**](https://jacobtnyoung.github.io/Networks.html)! Specifically, how ideas from network science can be applied to problems in criminology and criminal justice.  
+
+I teach two courses that pertain to this research focus:  
+
+  * An [analysis of network data](https://jacobtnyoung.github.io/SAND/) course  
+  
+  * A [network theory](https://jacobtnyoung.github.io/NetworkCriminology/) course  
 
 <br>
 
-I am also the  Associate Director for the [Center for Correctional Solutions](https://ccj.asu.edu/ccs). Additionally, I am interested in **institutional corrections**.
+I am also the  Associate Director for the [Center for Correctional Solutions](https://ccj.asu.edu/ccs).
 
 <br>
 
