@@ -11,6 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
+```{r, out.width = "100%", fig.align='center', echo=FALSE}
+knitr::include_graphics("_images/IMG_2388.jpeg")
+```
+
+
 ### About me...
 
 <br>
