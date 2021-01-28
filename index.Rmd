@@ -36,4 +36,8 @@ I am also the  Associate Director for the [Center for Correctional Solutions](ht
 
 <br>
 
+*Finally*, I have recently started tinkering around with data science (because it is awesome!). Specifically, I have created a site to examine the Phoenix, AZ open data portal. The site, [R2PhX](https://jacobtnyoung.github.io/R2PhX/), explores different questions using these data.    
+
+<br>
+
 *Thanks for stopping by!!!*
