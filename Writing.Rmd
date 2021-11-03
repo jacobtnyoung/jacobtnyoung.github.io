@@ -20,8 +20,9 @@ Here is my body of research by year. The DOIs are hyperlinked to the title. If y
 
 <br>
 
-#### 2020
+#### 2021
 <br>
+
 
 **Young, Jacob T.N.** and Dana L. Haynie. In Press. [Trusting the untrustworthy: The social organization of trust among incarcerated women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*. [No-paywall manuscript](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_manuscripts/TRUST_2020_JQ.pdf).  
 <br>
@@ -29,7 +30,11 @@ Here is my body of research by year. The DOIs are hyperlinked to the title. If y
 Meldrum, Ryan C., Justin W. Patchin, **Jacob T.N. Young**, and Sameer Hinduja. In Press. [Bullying Victimization, Negative Emotions, and Digital Self-Harm: Testing a Theoretical Model of Indirect Effects](https://www.tandfonline.com/doi/full/10.1080/01639625.2020.1833380). *Deviant Behavior*.  
 <br>
 
-Kreager, Derek A., **Jacob T.N. Young**, Dana L. Haynie, David R. Schaefer, Martin Bouchard, and Kimberly M. Davidson. In Press. [In the Eye of the Beholder: Meaning and Structure of Informal Status in Women’s and Men’s Prisons](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12260). *Criminology*.   
+Kreager, Derek A., **Jacob T.N. Young**, Dana L. Haynie, David R. Schaefer, Martin Bouchard, and Kimberly M. Davidson. 2021. [In the Eye of the Beholder: Meaning and Structure of Informal Status in Women’s and Men’s Prisons](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12260). *Criminology*. 59 (1), 42-72.  
+<br>
+
+
+#### 2020
 <br>
 
 Ready, Justin T. and **Jacob T.N. Young**. 2020. [The Unfulfilled Potential of Police Body Cameras in the Era of Black Lives Matter](https://slate.com/technology/2020/10/black-lives-matter-police-body-cameras.html). *Slate*.  
