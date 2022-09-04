@@ -10,16 +10,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-TEXT HERE ABOUT MENTORING
+Below is a list a students I have mentored in various capacities. 
 
 <br>
 
-#### [A Johannes “Jon” Bottema](https://www.usm.edu/faculty-directory/profile.php?id=2321580)
+#### [A Johannes “Jon” Bottema](https://www.usm.edu/faculty-directory/profile.php?id=2321580), Ph.D.
 
   +  Assistant Professor, The University of Southern Mississippi  
   
   + Bio: A Johannes “Jon” Bottema is an Assistant Professor in the School of Criminal Justice, Forensic Science, and Security Studies at the University of Southern Mississippi. Dr. Bottema focuses on practical research that positively impacts law enforcement agencies at various levels and the communities they serve. In particular, he is interested in evidence-based policing and the utilization of intelligence within law enforcement. His work has appeared in *Policing: A Journal of Policy and Practice*,*Policing: An International Journal*, and the *Journal of Drug Issues*.
   
   + Research Interests: evidence-based policing, intelligence-led policing, crime and intelligence analysis
+
+<br>
+
+#### [Suzanne Coble](https://ualr.edu/criminaljustice/suzanne-coble/), Ph.D.
+
+  +  Assistant Professor, School of Criminal Justice and Criminology, University of Arkansas at Little Rock  
   
-  
+  + Research Interests: Sexual violence; police, prosecutor, and jury decision-making; social structure, inequality, and disparity; race, gender, and criminal justice; feminist and queer criminologies; qualitative methods
+    
