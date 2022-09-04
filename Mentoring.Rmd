@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-Below is a list a students I have mentored in various capacities. 
+Below is a list a students I have mentored in various capacities:
 
 <br>
 
