@@ -32,7 +32,11 @@ I teach two courses that pertain to this research focus:
 
 <br>
 
-*Finally*, I have recently started tinkering around with data science (because it is awesome!). Specifically, I have created a site to examine the Phoenix, AZ open data portal. The site, [R2PhX](https://jacobtnyoung.github.io/R2PhX/), explores different questions using these data.    
+*But wait, there's more!* I have recently started tinkering around with data science (because it is awesome!). Specifically, I have created a site to examine the Phoenix, AZ open data portal. The site, [R2PhX](https://jacobtnyoung.github.io/R2PhX/), explores different questions using these data.    
+
+<br>
+
+*Finally*, I have had the opportunity to mentor some incredible students in my career. If you are interested in who they are and they work they do, check them out at my [Mentoring](https://jacobtnyoung.github.io/Mentoring.html) page.
 
 <br>
 
