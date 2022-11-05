@@ -13,7 +13,7 @@
 
 <title>Mentoring</title>
 
-<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -290,13 +298,13 @@ policing, crime and intelligence analysis.</p></li>
 </ul>
 <p><br></p>
 </div>
-<div id="katharine-brown" class="section level4">
+<div id="katharine-brown-ph.d.-candidate" class="section level4">
 <h4><a href="https://search.asu.edu/profile/3133266">Katharine
-Brown</a></h4>
+Brown</a>, Ph.D. Candidate</h4>
 <ul>
-<li><p>Doctoral Student, School of Criminology and Criminal Justice and
-Scholar, Office of Inclusive Design for Equity and Access, Arizona State
-University</p></li>
+<li><p>Doctoral Student, <a href="https://ccj.asu.edu/">School of
+Criminology and Criminal Justice</a> and Scholar, Office of Inclusive
+Design for Equity and Access, Arizona State University</p></li>
 <li><p>Bio: Katharine Brown (she/her/hers) is a doctoral student in the
 School of Criminology and Criminal Justice (SCCJ) at Arizona State
 University. Katharine’s research centers the relationship between
@@ -412,6 +420,18 @@ the value of supportive actions made by others and provide practical
 solutions for how this can be enhanced. Raven’s recent work has been
 published in the <em>International Journal of Housing Policy</em> and
 the <em>Journal of Offender Rehabilitation</em>.</p></li>
+</ul>
+<p><br></p>
+</div>
+<div id="connor-stewart-ph.d." class="section level4">
+<h4><a href="https://search.asu.edu/profile/3133265">Connor Stewart</a>,
+Ph.D.</h4>
+<ul>
+<li><p>Doctoral Student in the <a href="https://ccj.asu.edu/">School of
+Criminology and Criminal Justice</a> at Arizona State
+University</p></li>
+<li><p>Research Interests: criminological methods and theory, political
+violence, gangs, and organized crime.</p></li>
 </ul>
 <p><br></p>
 </div>
