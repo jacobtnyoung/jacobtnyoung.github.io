@@ -11,11 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-##  {.tabset .tabset-fade .tabset-pills} 
-
 ### Invited Presentations 
 
 <br>
+
+[Cultural Embeddedness and the Meaning of Trust among Incarcerated Women](). Presented at the Department of Sociology Colloquium at the University of New Mexico, November 2022. 
+
 
 [Housing in Recidivism Reduction Efforts: Study Design for the Arizona Pilot Program](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_presentations/housing_forum_presentation_young.pdf). Presentation for the [Arizona Housing Forum](https://housing.az.gov/2019-arizona-housing-forum/overview), August 2019.  
 
