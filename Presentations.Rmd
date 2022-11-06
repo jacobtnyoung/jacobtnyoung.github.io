@@ -15,8 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
-[Cultural Embeddedness and the Meaning of Trust among Incarcerated Women](). Presented at the Department of Sociology Colloquium at the University of New Mexico, November 2022. 
+[Cultural Embeddedness and the Meaning of Trust among Incarcerated Women](https://github.com/jacobtnyoung/jacobtnyoung.github.io/blob/master/_presentations/Trust_Prison_UNM_2022_COLLOQUIUM_Presentation.pdf). Presented at the Department of Sociology Colloquium at the University of New Mexico, November 2022. 
 
+<br>
 
 [Housing in Recidivism Reduction Efforts: Study Design for the Arizona Pilot Program](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_presentations/housing_forum_presentation_young.pdf). Presentation for the [Arizona Housing Forum](https://housing.az.gov/2019-arizona-housing-forum/overview), August 2019.  
 
@@ -53,5 +54,3 @@ A Cautionary Note on the Adoption of Police Body Cameras: Findings from the Mesa
 Unstructured Socializing, Gang Cohesiveness, and Delinquency: A Longitudinal Analysis of the Consequences of a Detached-Worker Program. Presented at the Criminology Forum at Pennsylvania State University October, 2014 and the School of Public Affairs Colloquium at Arizona State University, August 2014.
 
 <br>
-
-### Professional Presentations
