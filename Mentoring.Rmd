@@ -5,6 +5,11 @@ output:
     theme: yeti
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -14,13 +19,21 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
 <br>
 
+#### [Savanna Allen](https://search.asu.edu/profile/3285704), M.S.
+
+  +  Doctoral Student, [School of Criminology and Criminal Justice](https://ccj.asu.edu/) Arizona State University  
+  
+  + *Research Interests*: juvenile delinquency, risk and protective factors for antisocial behavior, psychometrics, parenting influences on youth behavior, gender differences.
+
+<br>
+
 #### [A Johannes “Jon” Bottema](https://www.usm.edu/faculty-directory/profile.php?id=2321580), Ph.D.
 
   +  Assistant Professor, The University of Southern Mississippi  
   
-  + Bio: A Johannes “Jon” Bottema is an Assistant Professor in the School of Criminal Justice, Forensic Science, and Security Studies at the University of Southern Mississippi. Dr. Bottema focuses on practical research that positively impacts law enforcement agencies at various levels and the communities they serve. In particular, he is interested in evidence-based policing and the utilization of intelligence within law enforcement. His work has appeared in *Policing: A Journal of Policy and Practice*,*Policing: An International Journal*, and the *Journal of Drug Issues*.
+  + *Bio*: A Johannes “Jon” Bottema is an Assistant Professor in the School of Criminal Justice, Forensic Science, and Security Studies at the University of Southern Mississippi. Dr. Bottema focuses on practical research that positively impacts law enforcement agencies at various levels and the communities they serve. In particular, he is interested in evidence-based policing and the utilization of intelligence within law enforcement. His work has appeared in *Policing: A Journal of Policy and Practice*,*Policing: An International Journal*, and the *Journal of Drug Issues*.
   
-  + Research Interests: evidence-based policing, intelligence-led policing, crime and intelligence analysis.
+  + *Research Interests*: evidence-based policing, intelligence-led policing, crime and intelligence analysis.
 
 <br>
 
@@ -28,7 +41,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Doctoral Student, [School of Criminology and Criminal Justice](https://ccj.asu.edu/) and Scholar, Office of Inclusive Design for Equity and Access, Arizona State University 
   
-  + Bio: Katharine Brown (she/her/hers) is a doctoral student in the School of Criminology and Criminal Justice (SCCJ) at Arizona State University. Katharine’s research centers the relationship between homelessness and policing, with consideration for the impact of race and gender in this relationship. More specifically, she uses mixed-methodology to evaluate innovative police strategies and coordinated responses to issues of homelessness. Her research has been published in the *Journal of Experimental Criminology*, *Behavioral Sciences and the Law*, and *Policing: An International Journal*. She was inspired to engage in this work through her experiences working in her undergraduate police department at University of California, San Diego where she earned a bachelor’s degree in Sociology. Beyond her research Katharine is involved in both school- and college-level service and has taught several undergraduate and graduate courses in the SCCJ. Currently, Katharine is also employed as a Scholar in the office of Inclusive Design for Equity and Access (IDEA). As an IDEA Scholar Katharine works with an interdisciplinary team of doctoral students and the Associate Dean of IDEA to infuse inclusivity, equity, and access into Watts College through sustainable anti-racist and anti-oppressive practices and strategies. She has also served as a co-chair for Watts College’s Committee for Diversity and Inclusion as well as the interim chair for SCCJ’s Graduate Student Committee.
+  + *Bio*: Katharine Brown (she/her/hers) is a doctoral student in the School of Criminology and Criminal Justice (SCCJ) at Arizona State University. Katharine’s research centers the relationship between homelessness and policing, with consideration for the impact of race and gender in this relationship. More specifically, she uses mixed-methodology to evaluate innovative police strategies and coordinated responses to issues of homelessness. Her research has been published in the *Journal of Experimental Criminology*, *Behavioral Sciences and the Law*, and *Policing: An International Journal*. She was inspired to engage in this work through her experiences working in her undergraduate police department at University of California, San Diego where she earned a bachelor’s degree in Sociology. Beyond her research Katharine is involved in both school- and college-level service and has taught several undergraduate and graduate courses in the SCCJ. Currently, Katharine is also employed as a Scholar in the office of Inclusive Design for Equity and Access (IDEA). As an IDEA Scholar Katharine works with an interdisciplinary team of doctoral students and the Associate Dean of IDEA to infuse inclusivity, equity, and access into Watts College through sustainable anti-racist and anti-oppressive practices and strategies. She has also served as a co-chair for Watts College’s Committee for Diversity and Inclusion as well as the interim chair for SCCJ’s Graduate Student Committee.
   
 <br>
 
@@ -36,9 +49,9 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Assistant Professor, School of Criminal Justice and Criminology, University of Arkansas at Little Rock  
   
-  + Bio: Suzanne St. George Coble, is an Assistant Professor at University of Arkansas at Little Rock. Her research focuses on sexual violence, including theories of perpetration, rape myth acceptance, consent communication, and sexual assault case processing. She is also interested in how race, gender, and sexuality intersections influence perceptions of and responses to rape.
+  + *Bio*: Suzanne St. George Coble, is an Assistant Professor at University of Arkansas at Little Rock. Her research focuses on sexual violence, including theories of perpetration, rape myth acceptance, consent communication, and sexual assault case processing. She is also interested in how race, gender, and sexuality intersections influence perceptions of and responses to rape.
   
-  + Research Interests: Sexual violence; police, prosecutor, and jury decision-making; social structure, inequality, and disparity; race, gender, and criminal justice; feminist and queer criminologies; qualitative methods.  
+  + *Research Interests*: Sexual violence,; police, prosecutor, and jury decision-making; social structure, inequality, and disparity; race, gender, and criminal justice; feminist and queer criminologies; qualitative methods.  
 
 <br>
 
@@ -46,7 +59,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Assistant Professor in the Department of Criminal Justice at East Carolina University  
   
-  + Research Interests: The nexus between formal social control and criminal justice policy and practice. To date, this work has primarily focused on the application of procedural justice in policing and 911 call-taker domains, as well as police use of technology.
+  + *Research Interests*: The nexus between formal social control and criminal justice policy and practice. To date, this work has primarily focused on the application of procedural justice in policing and 911 call-taker domains, as well as police use of technology.
   
 <br>  
 
@@ -54,17 +67,35 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Senior Research Associate in the Research Unit at the Arizona Department of Corrections, Rehabilitation and Reentry  
   
-  + Research Interests: The collateral consequences of incarceration, correctional and public policy, and prison reentry. Her research has been published in outlets such as *Journal of Offender Rehabilitation*, *Corrections: Policy, Practice, and Research*, and *Applied Cognitive Psychology*.
+  + *Research Interests*: The collateral consequences of incarceration, correctional and public policy, and prison reentry. Her research has been published in outlets such as *Journal of Offender Rehabilitation*, *Corrections: Policy, Practice, and Research*, and *Applied Cognitive Psychology*.
   
 <br>  
+
+#### [Arynn Infante](https://www.pdx.edu/criminology-criminal-justice/profile/arynn-infante-phd), Ph.D.
+
+  +  Assistant Professor, Portland State University, Department of Criminology and Criminal Justice
+  
+  + *Bio*: Dr. Arynn Infante got her PhD in Criminology and Criminal Justice from Arizona State University in 2020. Broadly, her work seeks to unpack the salience of race and ethnicity to punishment and social control outcomes. Recently, she developed and validated a 20-item Perceived Latino Threat Scale (PLTS) and is currently exploring how perceptions of Latino threat influence punitive border control sentiment, focusing on whether this relationship is conditional on perceived undocumented immigrant status. She also has forthcoming work exploring the importance of race and ethnicity to prison social organization, establishing a new concept, the racial code, that encourages racial group obedience, loyalty, and segregation as well as the mobilization of violence in defense of one's race in prison.
+
+<br>
 
 #### [Travis Meyers](https://scholar.google.com/citations?user=WgV65qcAAAAJ&hl=en&oi=ao), Ph.D.
 
   +  Assistant Professor, Department of Criminology and Criminal Justice, The University of Texas at San Antonio  
   
-  + Bio: Travis Meyers is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Texas at San Antonio. He received his Ph.D. in Criminology and Criminal Justice from Arizona State University in 2018. Travis’s research interests include corrections and correctional policy with a specific emphasis on offender rehabilitation and programming. He has published in the *Journal of Mental Health*, *Journal of Criminal Justice*, *International Journal of Offender Therapy and Comparative Criminology*, and *Corrections: Policy, Practice and Research*. Travis co-taught and co-developed the first Inside-Out Prison Exchange Program class in the state of Arizona and is a co-founding member of the Arizona Transformation Project.  
+  + *Bio*: Travis Meyers is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Texas at San Antonio. He received his Ph.D. in Criminology and Criminal Justice from Arizona State University in 2018. Travis’s research interests include corrections and correctional policy with a specific emphasis on offender rehabilitation and programming. He has published in the *Journal of Mental Health*, *Journal of Criminal Justice*, *International Journal of Offender Therapy and Comparative Criminology*, and *Corrections: Policy, Practice and Research*. Travis co-taught and co-developed the first Inside-Out Prison Exchange Program class in the state of Arizona and is a co-founding member of the Arizona Transformation Project.  
   
-  + Research Interests: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
+  + *Research Interests*: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
+
+<br>
+
+#### [Stephanie Morse](https://www.anselm.edu/faculty-directory/stephanie-morse), Ph.D.
+
+  +  Assistant Professor, Criminal Justice Department, Saint Anselm College  
+  
+  + *Bio*: Stephanie Morse is an Assistant Professor in the Criminal Justice Department at Saint Anselm College. She received her Ph.D. in Criminology and Criminal Justice from Arizona State University in 2022. Stephanie's work is focused on prison life and prison social organization, with a particular emphasis on rehabilitation and promoting positive outcomes with correctional populations. More broadly, she is committed to engaging in research, teaching, and service that is strengths-based, inclusive, and uplifts others.
+  
+  + *Research Interests*: Prison rehabilitation, prison life, prison social organization, corrections, qualitative methods.
 
 <br>
 
@@ -72,7 +103,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Research Analyst at the New York City Criminal Justice Agency  
   
-  + Research Interests: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
+  + *Research Interests*: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
 
 <br>
 
@@ -80,15 +111,15 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Assistant Professor in the Criminal Justice and Criminology Department at Georgia Southern University  
   
-  + Research Interests: Emerging issues within policing which includes officer experience, use of force, police culture, and evidence-based policing.
+  + *Research Interests*: Emerging issues within policing which includes officer experience, use of force, police culture, and evidence-based policing.
   
 <br>  
 
-#### [Connor Stewart](https://search.asu.edu/profile/3133265), Ph.D.
+#### [Connor Stewart](https://search.asu.edu/profile/3133265), M.S.
 
   +  Doctoral Student in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at Arizona State University  
   
-  + Research Interests: criminological methods and theory, political violence, gangs, and organized crime.  
+  + *Research Interests*: criminological methods and theory, political violence, gangs, and organized crime.  
 
 <br>
 
@@ -96,7 +127,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
   +  Assistant Professor, Department of Criminal Justice and Legal Studies, University of Mississippi  
   
-  + Research Interests: Primary research and teaching interests include criminology, gender and crime, juvenile delinquency, juvenile justice, and race and crime.
+  + *Research Interests*: Primary research and teaching interests include criminology, gender and crime, juvenile delinquency, juvenile justice, and race and crime.
         
     
 <br>  <br>  
