@@ -13,7 +13,7 @@
 
 <title>index.knit</title>
 
-<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -263,19 +271,46 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+body {
+text-align: justify}
+</style>
+<hr />
+<p><img src="_images/my_photo.jpg" width="15%" /></p>
 <p><br></p>
 <div id="about-me" class="section level3">
 <h3>About me…</h3>
-<p><br></p>
-<p><em>Hi there!</em></p>
 <p><br> I am an Associate Professor in the <a
 href="https://ccj.asu.edu/">School of Criminology and Criminal
 Justice</a> at <a href="https://asu.edu">Arizona State University</a>.
-My research focuses on <a
-href="https://jacobtnyoung.github.io/Networks.html"><strong>network
-criminology</strong></a>! Specifically, how ideas from network science
-can be applied to problems in criminology and criminal justice.</p>
-<p>I teach two courses that pertain to this research focus:</p>
+My research focuses on a variety of topics including: <a
+href="https://jacobtnyoung.github.io/Networks.html"><strong>Network
+Criminology</strong></a> and <a
+href="https://jacobtnyoung.github.io/R2PhX/"><strong>Data
+Science</strong></a>.</p>
+<p><br></p>
+<p><br></p>
+</div>
+<div id="research-teaching" class="section level3">
+<h3>Research &amp; Teaching</h3>
+<p><br></p>
+<div id="network-criminology" class="section level4">
+<h4><em>Network Criminology</em></h4>
+<p><a
+href="https://jacobtnyoung.github.io/Networks.html"><strong>Network
+Criminology</strong></a> is the application of ideas from network
+science to problems in criminology and criminal justice. <a
+href="https://jacobtnyoung.github.io/Networks.html"><em>Learn
+more</em></a>. How do beliefs about technology (e.g. body-worn cameras)
+spread among police officers? How is power defined and distributed among
+incarcerated men and incarcerated women? These are all questions that
+require a network perspective to not only answer the question, but be
+able to ask it in the first place. To see the work I have done in this
+area, see my <a
+href="https://jacobtnyoung.github.io/writing.html">Writing</a> page.</p>
+<p>I teach two courses that pertain to a focus on <a
+href="https://jacobtnyoung.github.io/Networks.html"><strong>Network
+Criminology</strong></a>:</p>
 <ul>
 <li><p>An <a href="https://jacobtnyoung.github.io/SAND/">analysis of
 network data</a> course</p></li>
@@ -284,21 +319,31 @@ href="https://jacobtnyoung.github.io/NetworkCriminology/">network
 theory</a> course</p></li>
 </ul>
 <p><br></p>
-<p><em>And</em>, I am the Director of Curriculum for the <a
-href="https://issr.asu.edu">Institute for Social Science
-Research</a>.</p>
-<p><br></p>
+</div>
+<div id="data-science" class="section level4">
+<h4><em>Data Science</em></h4>
 <p><em>But wait, there’s more!</em> I have recently started tinkering
 around with data science (because it is awesome!). Specifically, I have
 created a site to examine the Phoenix, AZ open data portal. The site, <a
 href="https://jacobtnyoung.github.io/R2PhX/">R2PhX</a>, explores
 different questions using these data.</p>
 <p><br></p>
-<p><em>Finally</em>, I have had the opportunity to mentor some
-incredible students in my career. If you are interested in who they are
-and they work they do, check them out at my <a
+</div>
+</div>
+<div id="mentoring" class="section level3">
+<h3>Mentoring</h3>
+<p>I have had the opportunity to mentor some incredible students in my
+career. If you are interested in who they are and they work they do,
+check them out at my <a
 href="https://jacobtnyoung.github.io/Mentoring.html">Mentoring</a>
 page.</p>
+<p><br></p>
+</div>
+<div id="service" class="section level3">
+<h3>Service</h3>
+<p><em>And</em>, I am the Director of Curriculum for the <a
+href="https://issr.asu.edu">Institute for Social Science
+Research</a>.</p>
 <p><br></p>
 <p><em>Thanks for stopping by!!!</em></p>
 </div>
