@@ -5,9 +5,17 @@ output:
     theme: yeti
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+----
+
 <br>
 
 ### [Statistical Analysis of Network Data (SAND)](https://jacobtnyoung.github.io/SAND/)
