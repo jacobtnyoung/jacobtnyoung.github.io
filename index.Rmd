@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library( here )
 
 knitr::include_graphics(
-  here("_images/my_photo.jpg"), FALSE
+  here("images/my_photo.jpg"), FALSE
   )
 
 ```
