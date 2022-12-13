@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Peer-Reviewed Articles, Book Chapters, & Other Publications {.tabset .tabset-fade .tabset-pills} 
 
-Here is my body of research by year. The DOIs are hyperlinked to the title. If you run into a paywall, click on the "No-paywall manuscript" link. This is identical to the published manuscript, it just does not have the journal formatting (or the cost!). 
+Here is my body of research by year. The DOIs are hyperlinked to the title.
 
 <br>
 
@@ -36,12 +36,13 @@ Simonds, Raven, Natasha Khade, and **Jacob T.N. Young**. In Press. [Does Paid Tr
 Tomlinson, Tiffaney A., Daniel P. Mears, Brian J. Stults, Ryan C. Meldrum, Jillian J. Turanovic and **Jacob T.N. Young**. In Press. [The Legacy of Troubled Childhoods: Adverse Childhood Experiences, Sleep, and Delinquency](https://doi.org/10.1177/00111287221083961). *Crime & Delinquency*.  
 <br>
 
-**Young, Jacob T.N.** and Dana L. Haynie. 2022. [Trusting the Untrustworthy: The Social Organization of Trust among Incarcerated Women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*, 39 (3), 553-584. [No-paywall manuscript](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_manuscripts/TRUST_2020_JQ.pdf).  
+**Young, Jacob T.N.** and Dana L. Haynie. 2022. [Trusting the Untrustworthy: The Social Organization of Trust among Incarcerated Women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*, 39 (3), 553-584.
 <br>
 
 Meldrum, Ryan C., Justin W. Patchin, **Jacob T.N. Young**, and Sameer Hinduja. 2022. [Bullying Victimization, Negative Emotions, and Digital Self-Harm: Testing a Theoretical Model of Indirect Effects](https://www.tandfonline.com/doi/full/10.1080/01639625.2020.1833380). *Deviant Behavior*, 43 (3), 303-321.   
 <br>
 
+----
 
 #### 2021
 <br>
@@ -50,6 +51,7 @@ Meldrum, Ryan C., Justin W. Patchin, **Jacob T.N. Young**, and Sameer Hinduja. 2
 Kreager, Derek A., **Jacob T.N. Young**, Dana L. Haynie, David R. Schaefer, Martin Bouchard, and Kimberly M. Davidson. 2021. [In the Eye of the Beholder: Meaning and Structure of Informal Status in Women’s and Men’s Prisons](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12260). *Criminology*. 59 (1), 42-72.  
 <br>
 
+----
 
 #### 2020
 <br>
@@ -57,6 +59,7 @@ Kreager, Derek A., **Jacob T.N. Young**, Dana L. Haynie, David R. Schaefer, Mart
 Ready, Justin T. and **Jacob T.N. Young**. 2020. [The Unfulfilled Potential of Police Body Cameras in the Era of Black Lives Matter](https://slate.com/technology/2020/10/black-lives-matter-police-body-cameras.html). *Slate*.  
 <br>
 
+----
 
 #### 2019
 <br>
@@ -66,6 +69,8 @@ Davidson, Kimberly M. and **Jacob T.N. Young**. 2019. [Treatment Engagement in a
 
 Meldrum, Ryan C., **Jacob T.N. Young**, Nicholas Kavish, and Brian B. Boutwell. 2019. [Could Peers Influence Intelligence During Adolescence? An Exploratory Study](http://doi.org/10.1016/j.intell.2018.11.009). *Intelligence*, 72: 28-34.  
 <br>
+
+----
 
 #### 2018
 <br>
@@ -83,6 +88,8 @@ Kreager, Derek A., Martin Bouchard, George De Leon, David R. Schaefer, Michaela 
 <br>
 
 Boutwell, Brian A., **Jacob T.N. Young**, and Ryan C. Meldrum. 2018. [On the Positive Relationship between Breastfeeding and Intelligence](http://dx.doi.org/10.1037/dev0000537). *Developmental Psychology*, 54(8):1426-1433.  
+
+----
 
 #### 2017
 <br>
@@ -102,6 +109,8 @@ Fahmy, Chantal and **Jacob T.N. Young**. 2017. [Gender Inequality in Knowledge P
 Meldrum, Ryan C., Melissa A. Petkovsek, Brian B. Boutwell, and **Jacob T.N. Young**. 2017. [Reassessing the Relationship between General Intelligence and Self-Control in Childhood](http://www.sciencedirect.com/science/article/pii/S016028961630126X). *Intelligence*, 60(1):1-9.  
 <br>
 
+----
+
 #### 2016
 <br>
 
@@ -116,6 +125,8 @@ Kreager, Derek A., David R. Schaefer, Martin Bouchard, Dana L. Haynie, Sara Wake
 
 Flexon, Jamie L., Ryan C. Meldrum, **Jacob T.N. Young**, and Peter Lehmann. 2016. [Low Self-Control and the Dark Triad: Disentangling the Predictive Power of Personality Traits on Young Adult Substance Use, Offending, and Victimization](http://www.sciencedirect.com/science/article/pii/S0047235216300447). *Journal of Criminal Justice*, 46: 159-169.  
 <br>
+
+----
 
 #### 2015
 <br>
@@ -141,6 +152,8 @@ Corcoran, Katie, David Pettinicchio, and **Jacob T.N. Young**. 2015. [Perception
 Rees, Carter and **Jacob T.N. Young**. 2015. [Parents, Peers, and Socialization to Institutions in Childhood and Adolescence: Implications for Delinquent Behavior](https://us.sagepub.com/en-us/nam/the-nurture-versus-biosocial-debate-in-criminology/book238854). The Nurture versus Biosocial Debate in Criminology, Ed. Kevin Beaver, Pg. 283-300. Thousand Oaks.  
 <br>
 
+----
+
 #### 2014
 <br>
 
@@ -165,6 +178,8 @@ Barnes, J.C., Kevin M. Beaver, **Jacob T.N. Young** and Michael TenEyck. 2014. [
 Boman, IV, John H., **Jacob T.N. Young**, Julie M. Baldwin, and Ryan C. Meldrum. 2014. [Specifying the Sources of Misperceptions of Peer Deviance: A Tale of Two Levels](http://cjb.sagepub.com/content/41/1/91). *Criminal Justice and Behavior*, 41(1): 91-113.  
 <br>
 
+----
+
 #### 2013
 <br>
 
@@ -177,6 +192,8 @@ Meldrum, Ryan C., **Jacob T.N. Young**, Callie Burt, and Alex R. Piquero. 2013. 
 **Young, Jacob T.N.** and Carter Rees. 2013. [Social Networks and Delinquency in Adolescence: Implications for Life-Course Criminology](http://link.springer.com/chapter/10.1007/978-1-4614-5113-6_10). Handbook of Life-Course Criminology, Ed. Chris Gibson and Marvin Krohn, pg. 159-180. Springer.  
 <br>
 
+----
+
 #### 2012
 <br>
 
@@ -185,6 +202,8 @@ Meldrum, Ryan C., **Jacob T.N. Young**, and Frank M. Weerman. 2012. [Changes in 
 
 Meldrum, Ryan C., **Jacob T.N. Young**, Carter Hay, and Jamie L. Flexon. 2012. [Does Self-Control Influence Maternal Attachment? A Reciprocal Effects Analysis from Childhood through Middle Adolescence](http://www.springerlink.com.ezproxy1.lib.asu.edu/content/w15q76583753q30t/). *Journal of Quantitative Criminology*, 38(4): 673-699.  
 <br>
+
+----
 
 #### 2011
 <br>
@@ -198,10 +217,24 @@ Corcoran, Katie, David Pettinicchio, and **Jacob T.N. Young**. 2011. [The Contex
 **Young, Jacob T. N.** 2011. [How Do They ‘End Up Together’? A Social Network Analysis of Self-Control, Homophily, and Adolescent Relationships](https://link.springer.com/article/10.1007/s10940-010-9105-7/). *Journal of Quantitative Criminology*, 27(3):251-273.  
 <br>
 
+----
+
 #### 2010
+
+----
 
 #### 2009
 <br>
 
 Meldrum, Ryan C., **Jacob T.N. Young**, and Frank M. Weerman. 2009. [Reconsidering the Effect of Self-Control and Delinquent Peers: Implications of Measurement for Theoretical Significance](http://jrc.sagepub.com/content/46/3/353.abstract). *Journal of Research in Crime and Delinquency*, 46(3): 353-376.   
+<br>
+
+----
+
+### {.tabset .tabset-fade .tabset-pills} 
+
+<p align="center">
+[Back to home page](https://jacobtnyoung.github.io/)
+</p>
+
 <br>
