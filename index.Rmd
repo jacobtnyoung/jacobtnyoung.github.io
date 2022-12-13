@@ -3,6 +3,7 @@ title: ""
 output: 
   html_document:
     theme: yeti
+      
 ---
 
 <style>
@@ -31,7 +32,7 @@ knitr::include_graphics(
 ### About me...
 
 <br>
-I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on a variety of topics including: [**Network Criminology**](https://jacobtnyoung.github.io/Networks.html) and [**Data Science**](https://jacobtnyoung.github.io/R2PhX/).
+I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on a variety of topics including: [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html) and [**Data Science**](https://jacobtnyoung.github.io/R2PhX/).
 
 <br>
 
@@ -43,9 +44,9 @@ I am an Associate Professor in the [School of Criminology and Criminal Justice](
 
 #### *Network Criminology*
 
-[**Network Criminology**](https://jacobtnyoung.github.io/Networks.html) is the application of ideas from network science to problems in criminology and criminal justice.  [*Learn more*](https://jacobtnyoung.github.io/Networks.html). How do beliefs about technology (e.g. body-worn cameras) spread among police officers? How is power defined and distributed among incarcerated men and incarcerated women? These are all questions that require a network perspective to not only answer the question, but be able to ask it in the first place. To see the work I have done in this area, see my [Writing](https://jacobtnyoung.github.io/writing.html) page.  
+[**Network Criminology**](https://jacobtnyoung.github.io/Networks.html) is the application of ideas from network science to problems in criminology and criminal justice.  [*Learn more*](https://jacobtnyoung.github.io/site_pages/Networks.html). How do beliefs about technology (e.g. body-worn cameras) spread among police officers? How is power defined and distributed among incarcerated men and incarcerated women? These are all questions that require a network perspective to not only answer the question, but be able to ask it in the first place. To see the work I have done in this area, see my [Writing](https://jacobtnyoung.github.io/site_pages/Writing.html) page.  
 
-I teach two courses that pertain to a focus on [**Network Criminology**](https://jacobtnyoung.github.io/Networks.html):  
+I teach two courses that pertain to a focus on [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html):  
 
   + An [analysis of network data](https://jacobtnyoung.github.io/SAND/) course  
   
@@ -61,7 +62,7 @@ I teach two courses that pertain to a focus on [**Network Criminology**](https:/
 
 ### Mentoring
 
-I have had the opportunity to mentor some incredible students in my career. If you are interested in who they are and they work they do, check them out at my [Mentoring](https://jacobtnyoung.github.io/Mentoring.html) page.
+I have had the opportunity to mentor some incredible students in my career. If you are interested in who they are and they work they do, check them out at my [Mentoring](https://jacobtnyoung.github.io/site_pages/Mentoring.html) page.
 
 <br>
 
