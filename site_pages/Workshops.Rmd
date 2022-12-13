@@ -29,3 +29,15 @@ I teach a workshop that seeks to familiarize participants with the [R](http://cr
 Network science is a paradigm (i.e. a model of how the world works) that takes as its domain of interest the interdependence among units. This paradigm examines patterns or regularities in relationships (i.e. structure) among interacting units and focuses on a) how such patterns influence the behavior of these units and b) how such patterns are generated. Network analysis characterizes a broad class of techniques for describing and making inferences about research questions generated within this paradigm.
 
 This "crash course" provides an introduction to these various ideas and techniques. Slides from the most recent workshop are available [here](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/_workshops/Networks_Crash_Course_SLIDES.pdf).
+
+<br>
+
+----
+
+### {.tabset .tabset-fade .tabset-pills} 
+
+<p align="center">
+[Back to home page](https://jacobtnyoung.github.io/)
+</p>
+
+<br>

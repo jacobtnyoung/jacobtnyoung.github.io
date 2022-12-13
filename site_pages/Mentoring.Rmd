@@ -130,4 +130,14 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
   + *Research Interests*: Primary research and teaching interests include criminology, gender and crime, juvenile delinquency, juvenile justice, and race and crime.
         
     
-<br>  <br>  
+<br>
+
+----
+
+### {.tabset .tabset-fade .tabset-pills} 
+
+<p align="center">
+[Back to home page](https://jacobtnyoung.github.io/)
+</p>
+
+<br>
