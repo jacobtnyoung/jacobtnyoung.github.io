@@ -51,7 +51,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
   
   + *Bio*: Suzanne St. George Coble, is an Assistant Professor at University of Arkansas at Little Rock. Her research focuses on sexual violence, including theories of perpetration, rape myth acceptance, consent communication, and sexual assault case processing. She is also interested in how race, gender, and sexuality intersections influence perceptions of and responses to rape.
   
-  + *Research Interests*: Sexual violence,; police, prosecutor, and jury decision-making; social structure, inequality, and disparity; race, gender, and criminal justice; feminist and queer criminologies; qualitative methods.  
+  + *Research Interests*: Sexual violence; police, prosecutor, and jury decision-making; social structure, inequality, and disparity; race, gender, and criminal justice; feminist and queer criminologies; qualitative methods.  
 
 <br>
 
@@ -84,8 +84,6 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
   +  Assistant Professor, Department of Criminology and Criminal Justice, The University of Texas at San Antonio  
   
   + *Bio*: Travis Meyers is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Texas at San Antonio. He received his Ph.D. in Criminology and Criminal Justice from Arizona State University in 2018. Travis’s research interests include corrections and correctional policy with a specific emphasis on offender rehabilitation and programming. He has published in the *Journal of Mental Health*, *Journal of Criminal Justice*, *International Journal of Offender Therapy and Comparative Criminology*, and *Corrections: Policy, Practice and Research*. Travis co-taught and co-developed the first Inside-Out Prison Exchange Program class in the state of Arizona and is a co-founding member of the Arizona Transformation Project.  
-  
-  + *Research Interests*: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
 
 <br>
 
@@ -101,7 +99,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
 #### [Raven Simonds](https://www.nycja.org/people/raven-simonds), Ph.D.
 
-  +  Research Analyst at the New York City Criminal Justice Agency  
+  +  Senior Research Analyst at the New York City Criminal Justice Agency  
   
   + *Research Interests*: The collateral consequences of jail and prison, social support and social networks, public policy, and applied quantitative methods. Her research agenda broadly aims to demonstrate the value of supportive actions made by others and provide practical solutions for how this can be enhanced. Raven's recent work has been published in the *International Journal of Housing Policy* and the *Journal of Offender Rehabilitation*.  
 
