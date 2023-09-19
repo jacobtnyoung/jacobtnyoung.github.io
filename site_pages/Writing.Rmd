@@ -29,7 +29,10 @@ Here is my body of research. The DOIs are hyperlinked to the title.
 
 <br>
 
-**Young, Jacob T.N.**, Travis J. Meyers, Stephanie J. Morse. 2023. What is ‘prison culture’?: [Developing a Theoretical and Methodological Foundation for Understanding Cultural Schema in Prison](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12335). *Criminology*, 61(3), 451-448.
+**Young, Jacob T.N.**, Travis J. Meyers, Stephanie J. Morse. 2023. What is ‘prison culture’?: [Developing a Theoretical and Methodological Foundation for Understanding Cultural Schema in Prison](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12335). *Criminology*, 61(3), 451-448.  
+<br>
+
+Wright, Kevin. A., **Jacob T.N. Young**, Caitlin G. Matekel, Arynn A. Infante, Faith E. Gifford, Travis J. Meyers, and Stephanie J. Morse. In Press. [Solitary Confinement and the Well-Being of People in Prison](https://doi.org/10.1016/j.socscimed.2023.116224). *Social Science Medicine*.  
 <br>
 
 Simonds, Raven, Natasha Khade, and **Jacob T.N. Young**. In Press. [Does Paid Transitional Housing Impact Reentry Outcomes During COVID-19 Stay-at-Home Orders? Evidence from a Natural Experiment Within an RCT](https://www.tandfonline.com/doi/full/10.1080/19491247.2022.2097852). *The International Journal of Housing Policy*.  
@@ -38,7 +41,7 @@ Simonds, Raven, Natasha Khade, and **Jacob T.N. Young**. In Press. [Does Paid Tr
 Tomlinson, Tiffaney A., Daniel P. Mears, Brian J. Stults, Ryan C. Meldrum, Jillian J. Turanovic and **Jacob T.N. Young**. 2023. [The Legacy of Troubled Childhoods: Adverse Childhood Experiences, Sleep, and Delinquency](https://journals.sagepub.com/doi/10.1177/00111287221083961). *Crime & Delinquency*, , 69(10), 1919-1946.  
 <br>
 
-**Young, Jacob T.N.** and Dana L. Haynie. 2022. [Trusting the Untrustworthy: The Social Organization of Trust among Incarcerated Women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*, 39 (3), 553-584.
+**Young, Jacob T.N.** and Dana L. Haynie. 2022. [Trusting the Untrustworthy: The Social Organization of Trust among Incarcerated Women](https://www.tandfonline.com/doi/full/10.1080/07418825.2020.1807588). *Justice Quarterly*, 39 (3), 553-584.  
 <br>
 
 Meldrum, Ryan C., Justin W. Patchin, **Jacob T.N. Young**, and Sameer Hinduja. 2022. [Bullying Victimization, Negative Emotions, and Digital Self-Harm: Testing a Theoretical Model of Indirect Effects](https://www.tandfonline.com/doi/full/10.1080/01639625.2020.1833380). *Deviant Behavior*, 43 (3), 303-321.   
