@@ -5,12 +5,11 @@ output:
     theme: yeti
 ---
 
-```{=html}
 <style>
 body {
 text-align: justify}
 </style>
-```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -110,6 +109,16 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 -   Assistant Professor, Department of Criminology and Criminal Justice, The University of Texas at San Antonio
 
 -   *Bio*: Travis Meyers is an Assistant Professor in the Department of Criminology and Criminal Justice at The University of Texas at San Antonio. He received his Ph.D. in Criminology and Criminal Justice from [Arizona State University](https://ccj.asu.edu/) in 2018. Travis's research interests include corrections and correctional policy with a specific emphasis on offender rehabilitation and programming. He has published in the *Journal of Mental Health*, *Journal of Criminal Justice*, *International Journal of Offender Therapy and Comparative Criminology*, and *Corrections: Policy, Practice and Research*. Travis co-taught and co-developed the first Inside-Out Prison Exchange Program class in the state of Arizona and is a co-founding member of the Arizona Transformation Project.
+
+<br>
+
+#### [Victor Mora], Ph.D.
+
+-   Associate Research Analyst, San Diego Association of Governments (SANDAG)
+
+-   *Bio*: Victor Mora received his Ph.D. in Criminology and Criminal Justice from [Arizona State University](https://ccj.asu.edu/) in 2023. He is currently an Associate Research Analyst at the San Diego Association of Governments (SANDAG) and has worked on several law enforcement and juvenile diversion program evaluations funded by federal, state, and local organizations.
+
+-   *Research Interests*: program evaluation, policing, violent crime.
 
 <br>
 
