@@ -29,15 +29,15 @@ Here is my body of research. The DOIs are hyperlinked to the title.
 
 <br>
 
-Kreager, Derek A., Yiwen Zhang, **Jacob T.N. Young**, and Julia Dillavou. In Press. [Sexuality, Social
-Organization, and Health in a Women’s Prison](https://journals.sagepub.com/doi/10.1177/26326663241246140). *Incarceration*.  
+Kreager, Derek A., Yiwen Zhang, **Jacob T.N. Young**, and Julia Dillavou. 2024. [Sexuality, Social
+Organization, and Health in a Women’s Prison](https://journals.sagepub.com/doi/10.1177/26326663241246140). *Incarceration*, 5(January-April), 1-24.  
 <br>
 
-Wenger, Marin R, **Jacob T.N. Young**, and Corey Whichard. In Press. [An Unbridgeable Gap? Racial
-Attitudes and Friendship in Prison](https://journals.sagepub.com/doi/10.1177/21533687231212678). *Race and Justice*.  
+Simonds, Raven, Natasha Khade, and **Jacob T.N. Young**. 2024. [Does Paid Transitional Housing Impact Reentry Outcomes During COVID-19 Stay-at-Home Orders? Evidence from a Natural Experiment Within an RCT](https://www.tandfonline.com/doi/full/10.1080/19491247.2022.2097852). *The International Journal of Housing Policy*, 24(2), 246-267.  
 <br>
 
-Simonds, Raven, Natasha Khade, and **Jacob T.N. Young**. In Press. [Does Paid Transitional Housing Impact Reentry Outcomes During COVID-19 Stay-at-Home Orders? Evidence from a Natural Experiment Within an RCT](https://www.tandfonline.com/doi/full/10.1080/19491247.2022.2097852). *The International Journal of Housing Policy*.  
+Wenger, Marin R, **Jacob T.N. Young**, and Corey Whichard. 2023. [An Unbridgeable Gap? Racial
+Attitudes and Friendship in Prison](https://journals.sagepub.com/doi/10.1177/21533687231212678). *Race and Justice*. 0(0).  
 <br>
 
 **Young, Jacob T.N.**, Travis J. Meyers, Stephanie J. Morse. 2023. What is ‘prison culture’?: [Developing a Theoretical and Methodological Foundation for Understanding Cultural Schema in Prison](https://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12335). *Criminology*, 61(3), 451-448.  
