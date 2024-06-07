@@ -22,6 +22,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>
 
+[Measuring Culture: Knowledge, Heterogeneity, and the Meaning of Trust in a Women’s Prison](github.com/jacobtnyoung/jacobtnyoung.github.io/blob/master/_presentations/Culture-Trust-GSU-2024-presentation.pdf). Presented to the Department of Criminal Justice and Criminology, Georgia State University, May 2024. 
+
+<br>
+
 [Cultural Embeddedness and the Meaning of Trust among Incarcerated Women](https://github.com/jacobtnyoung/jacobtnyoung.github.io/blob/master/_presentations/Trust_Prison_UNM_2022_COLLOQUIUM_Presentation.pdf). Presented at the Department of Sociology Colloquium at the University of New Mexico, November 2022. 
 
 <br>
