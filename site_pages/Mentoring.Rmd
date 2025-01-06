@@ -66,9 +66,9 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
 #### [Chantal Fahmy](https://scholar.google.com/citations?user=R7p6oW8AAAAJ&hl=en), Ph.D.
 
--   Assistant Professor, Department of Criminology and Criminal Justice, The University of Texas at San Antonio
+-   Associate Professor, Department of Criminology and Criminal Justice, The University of Texas at San Antonio
 
--   *Bio*: Chantal received her Bachelor's degree from the University of California, Irvine; her Master's degree from California State University, Long Beach; and her Ph.D. in Criminology and Criminal Justice from [Arizona State University](https://ccj.asu.edu/). Her research focuses on reentry and reintegration from prison, health criminology, institutional corrections, and the intersection of incarceration and public health. She currently serves as an Associate Editor for *Criminal Justice and Behavior*. Her recent work has been published in *Journal of Adolescent Health*, *Social Science & Medicine*, *Journal of Criminal Justice*, *Preventive Medicine*, and *Journal of Quantitative Criminology*.
+-   *Bio*: Chantal received her Bachelor's degree from the University of California, Irvine; her Master's degree from California State University, Long Beach; and her Ph.D. in Criminology and Criminal Justice from [Arizona State University](https://ccj.asu.edu/). Her research focuses on reentry and reintegration from prison, health criminology, institutional corrections, and the intersection of incarceration and public health. She currently serves as an Associate Editor for *Criminal Justice and Behavior*. Her recent work has been published in *Journal of Adolescent Health*, *Social Science & Medicine*, *Journal of Criminal Justice*, *Preventive Medicine*, and *Journal of Quantitative Criminology*. In 2023, Chantal won the Alumni Award for Early Career Excellence from the School of Criminology and Criminal Justice at Arizona State University
 
 <br>
 
@@ -112,7 +112,7 @@ Below is a list a students that I have been fortunate to mentor. All of them do 
 
 <br>
 
-#### [Victor Mora], Ph.D.
+#### [Victor Mora](), Ph.D.
 
 -   Associate Research Analyst, San Diego Association of Governments (SANDAG)
 
