@@ -47,19 +47,35 @@ I am an Associate Professor in the [School of Criminology and Criminal Justice](
 
 #### *Network Criminology*
 
-[**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html) is the application of ideas from network science to problems in criminology and criminal justice.  [*Learn more*](https://jacobtnyoung.github.io/site_pages/Networks.html). How do beliefs about technology (e.g. body-worn cameras) spread among police officers? How is power defined and distributed among incarcerated men and incarcerated women? These are all questions that require a network perspective to not only answer the question, but be able to ask it in the first place. To see the work I have done in this area, see my [Writing](https://jacobtnyoung.github.io/site_pages/Writing.html) page.  
+[**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html) is the application of ideas from network science to problems in criminology and criminal justice.  [*Learn more*](https://jacobtnyoung.github.io/site_pages/Networks.html). How do beliefs about technology (e.g. body-worn cameras) spread among police officers? How is power defined and distributed among incarcerated men and incarcerated women? These are all questions that require a network perspective to not only answer the question, but be able to ask it in the first place.  
 
-I teach two courses that pertain to a focus on [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html):  
+I teach three courses that pertain to a focus on [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html):  
 
   + An [analysis of network data](https://jacobtnyoung.github.io/SAND/) course  
   
   + A [network theory](https://jacobtnyoung.github.io/NetworkCriminology/) course  
+  
+  + And a [social network analysis for crime analysts]() course
+
+I have developed several books and R packages for these courses:
+
+  + [Social Netwowrk Analysis for Crime Analysts](https://jacobtnyoung.github.io/snaca-textbook/)
+  
+  + [Social Network Analysis for Crime Analysts using R](https://jacobtnyoung.github.io/snaca-r/)
+  
+  + [Social Network Analysis for Crime (Analysts) Package](https://jacobtnyoung.github.io/SNACpack/)
 
 <br>
 
 #### *Data Science*
 
-*But wait, there's more!* I have recently started tinkering around with data science (because it is awesome!). Specifically, I have created a site to examine the Phoenix, AZ open data portal. The site, [Open Criminology Phoenix (OCP)](https://jacobtnyoung.github.io/OpenCrimPhx/), explores different questions using these data. If you are wondering what is happening with crime in Phoenix, [Open Criminology Phoenix (OCP)](https://jacobtnyoung.github.io/OpenCrimPhx/) is the place to start!    
+*But wait, there's more!* I have recently started tinkering around with data science (because it is awesome!). Specifically, I have created a site to examine the Phoenix, AZ open data portal. The site, [Open Criminology Phoenix (OCP)](https://jacobtnyoung.github.io/OpenCrimPhx/), explores different questions using these data. If you are wondering what is happening with crime in Phoenix, [Open Criminology Phoenix (OCP)](https://jacobtnyoung.github.io/OpenCrimPhx/) is the place to start!
+
+I also teach a course on Open-Source Data Wrangling and Visualization for Crime Analysts. The following materials are used in the course and are freely available:
+
+  + [Data Wrangling and Visualization for Crime Analysts](https://jacobtnyoung.github.io/dwv4ca/)
+
+  + [Data Wrangling and Visualization for Crime Analysts Package](https://jacobtnyoung.github.io/DWVpack/)
 
 <br>
 
