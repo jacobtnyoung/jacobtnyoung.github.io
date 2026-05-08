@@ -35,7 +35,7 @@ knitr::include_graphics(
 #### [Curriculum Vitae](https://github.com/jacobtnyoung/jacobtnyoung.github.io/raw/master/CV_YOUNG_distribute.pdf)   
 
 <br>
-I am an Associate Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on a variety of topics including: [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html) and [**Data Science**](https://jacobtnyoung.github.io/OpenCrimPhx/).
+I am a Professor in the [School of Criminology and Criminal Justice](https://ccj.asu.edu/) at [Arizona State University](https://asu.edu). My research focuses on a variety of topics including: [**Network Criminology**](https://jacobtnyoung.github.io/site_pages/Networks.html) and [**Data Science**](https://jacobtnyoung.github.io/OpenCrimPhx/).
 
 <br>
 
